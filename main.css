@@ -1,16 +1,19 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
+    font-size: 50 ;
+    font-family: Times New Roman;
+    padding: 10px ;
+    margin: 10px ;
+    text-align: center;
     font-weight: ;
+    text-justify: none;
     text-decoration: ;
-    color: ;
-    background-color: ;
+    color: rgb(250, 250, 250) ;
+    background-color: #123456;
 }
 
 h2 {
     font-size: ;
+    text-align: center;
     font-family: ;
     padding: ;
     margin: ;
